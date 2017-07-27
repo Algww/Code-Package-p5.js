@@ -50,7 +50,7 @@ function setup() {
   colorMode(HSB, 360, 100, 100, 100);
 
   colorRight = color(0, 0, 0, alphaRight);
-  colorLeft = color(323, 100, 77, alphaLeft);
+  colorLeft = color(120, 100, 100, alphaLeft);
 }
 
 function draw() {
